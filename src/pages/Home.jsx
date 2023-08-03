@@ -23,17 +23,17 @@ const Home = () => {
           <motion.div className='home-content' {...headContainerAnimation}>
             <motion.div {...headTextAnimation}>
               <h1 className='head-text'>
-                LET'S DO <br className='xl:block hidden' /> IT.
+                CREA TU <br className='xl:block hidden' /> ESTILO.
               </h1>
             </motion.div>
             <motion.div {...headContentAnimation} className='flex flex-col gap-5'>
               <p className='max-w-md font-normal text-gray-600 text-base'>
-                Create your unique and exclusive shirt with our brand-new 3D customization tool.{' '}
-                <strong>Unleash your imagination</strong> and define your own style.
+                Crea tu remera unica y exclusiva con nuestra herramienta de creacion 3D.{' '}
+                <strong>Libera tu imaginacion</strong> y define tu propio estilo.
               </p>
               <CustomButton
                 type='filled'
-                title='Customize It'
+                title='Crear estilo'
                 handleClick={() => (state.intro = false)}
                 customStyles='w-fit px-4 py-2.5 font-bold text-sm'
               />
