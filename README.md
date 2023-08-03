@@ -1,6 +1,6 @@
 # Shirt Editor
 
-![Shirt Editor](link_to_your_shirt_editor_image.png)
+![Shirt Editor](./public/screen.png)
 
 ## Descripción
 
@@ -11,6 +11,9 @@ Shirt Editor es un proyecto que utiliza las siguientes librerías:
 - Maath: una librería matemática para cálculos complejos y manipulación de vectores.
 
 Con Shirt Editor, podrás personalizar camisetas de forma interactiva y visualizar cómo quedarán los diseños en 3D.
+
+-Visita mi pagina en el siguiente link:
+<https://shirt-editor-five.vercel.app/>
 
 ## Proximos pasos
 
